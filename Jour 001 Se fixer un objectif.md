@@ -35,3 +35,6 @@ Pour démarrer ces 100 jours de code, je décide de me lancer dans la création 
 - Introduction rapide au Design System (video - 15min): [What is a Design System - 101](https://www.youtube.com/watch?v=wc5krC28ynQ) 
 - [A modern css reset](https://piccalil.li/blog/a-modern-css-reset/) (blog)
 
+[Toutes les ressources de mon 100daysofcode](Ressources.md)
+
+
