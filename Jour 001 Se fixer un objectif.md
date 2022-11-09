@@ -10,7 +10,7 @@ Pour démarrer ces 100 jours de code, je décide de me lancer dans la création 
 - Découverte des Design System
 - Recherche de ressources autour du Design System. [Voir la section Ressource de cette page](#ressources)
 - Initialisation du [repository github JackalopeJazzBand](https://github.com/ctlabfr/jackalopejazzband)
-- Création d'une page dans lequel je collecterai tous [les ressources qui suscitent mon intérêt](A%20explorer%20plus%20tard.md) (et il risque d'y en avoir un paquet). Ce sera à explorer plus tard.
+- Création d'une page dans lequel je collecterai tous [les ressources qui suscitent mon intérêt](Ressources.md) (et il risque d'y en avoir un paquet). Ce sera à explorer plus tard.
 - Création fichier de reset CSS pour [JackalopeJazzBand](https://github.com/ctlabfr/jackalopejazzband)
 
 
