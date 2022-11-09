@@ -26,6 +26,7 @@ Pour démarrer ces 100 jours de code, je décide de me lancer dans la création 
   - [IBM Design Language](https://www.ibm.com/design/language/)
   - [Design System Atlassian](https://atlassian.design/)
 - J'ai démarré le cours disponible sur Youtube. Celui ci ne décrit pas comment créer un design system, mais comment transposer un design system (fourni sous forme d'image/pdf/figma ) en design system HTML, CSS, JS prêt à l'emploi
+- Importance de réinitialiser les propriétés CSS pour avoir un comportement uniformisé entre les différents navigateurs. Différent "standard" possible, celui proposé dans le cours, sinon normalize.css ou sanitize.css
 
 ## Bilan
 
