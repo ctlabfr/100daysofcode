@@ -1,7 +1,7 @@
 # 100daysofcode
 Apprendre à coder
 
-- [Jour 1 - Se Fixer une objectif, design system, reset css](Jour%20001%20Se%20fixer%20un%20objectif.md)
+- [Jour 1 - Se Fixer un objectif, design system, reset css](Jour%20001%20Se%20fixer%20un%20objectif.md)
 - Jour 2
 
 # Ressources
