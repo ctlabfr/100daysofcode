@@ -5,4 +5,4 @@ Apprendre à coder
 - Jour 2
 
 # Ressources
-- [Toutes les ressources croisés au cours de mon #100daysofcode](Ressources.md) 
+- [Toutes les ressources croisées au cours de mon #100daysofcode](Ressources.md) 
