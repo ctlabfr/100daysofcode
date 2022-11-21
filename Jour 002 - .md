@@ -15,8 +15,7 @@ que ce soit pour du positionnement, du rendu, ...
 - A créer des classes utilitaires pour gérer les couleurs
 - Quelques propriétés CSS "moderne"
 - la pseudo-class [:root](https://developer.mozilla.org/en-US/docs/Web/CSS/:root)
-
-## Bilan 
+- Utilisation de [hsl](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl) pour gérer les couleurs
 
 ## Ressources
 - [Mozilla Developer Network CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
