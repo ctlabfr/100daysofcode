@@ -13,7 +13,6 @@ Pour démarrer ces 100 jours de code, je décide de me lancer dans la création 
 - Création d'une page dans lequel je collecterai tous [les ressources qui suscitent mon intérêt](Ressources.md) (et il risque d'y en avoir un paquet). Ce sera à explorer plus tard.
 - Création fichier de reset CSS pour [JackalopeJazzBand](https://github.com/ctlabfr/jackalopejazzband)
 
-
 ## Ce que j'ai appris aujourd'hui
 - Un Design System peut décrire (cela varie d'un design system à l'autre):
   - La description du style: typographie, couleurs, espacement, graphismes,... 
